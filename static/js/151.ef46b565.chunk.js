@@ -2304,7 +2304,7 @@
                                             children: (0, V.jsx)(u.Z, {
                                               id: "landing-sec6-L-subtitle2",
                                               defaultMessage:
-                                                "(Artificial Intelligence Offering)",
+                                                "(0xcomingsoon)",
                                             }),
                                           }),
                                         }),
@@ -2410,7 +2410,7 @@
                                                       },
                                                     },
                                                   }),
-                                                  " 500,000,000 JINKO",
+                                                  " 1,000,000,000 JINKO",
                                                 ],
                                               }),
                                             }),
@@ -3197,7 +3197,7 @@
                                         N.twitter &&
                                           (0, V.jsx)(te, {
                                             className: "sec6-icon",
-                                            href: N.twitter,
+                                            href: "https://x.com/JinkoAI_agent",
                                             target: "_blank",
                                             rel: "noreferrer noopener",
                                             children: (0, V.jsx)("img", {
@@ -3219,7 +3219,7 @@
                                         N.discord &&
                                           (0, V.jsx)(te, {
                                             className: "sec6-icon",
-                                            href: "https://t.me",
+                                            href: "https://t.me/JinkoAI_agent",
                                             target: "_blank",
                                             rel: "noreferrer noopener",
                                             children: (0, V.jsx)("img", {

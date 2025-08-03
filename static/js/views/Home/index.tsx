@@ -1575,7 +1575,7 @@ const Home: React.FC = () => {
                       >
                         <FormattedMessage
                           id='landing-sec6-L-subtitle2'
-                          defaultMessage='(Artificial Intelligence Offering)'
+                          defaultMessage='(0xcomingsoon)'
                         />
                       </StyledText>
                     </TextWrapper>
@@ -1626,7 +1626,7 @@ const Home: React.FC = () => {
                             values={{
                               styledSpan: chunks => <StyledSpan>{chunks}</StyledSpan>
                             }}
-                          /> 500,000,000 JINKO
+                          /> 1,000,000,000 JINKO
                         </StyledText>
                       </TextWrapper>
                       <TextWrapper>

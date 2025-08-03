@@ -83581,12 +83581,7 @@
                                 (0, Sc.jsx)("li", {
                                   className: "nav-item",
                                   children: (0, Sc.jsx)("a", {
-                                    href: ""
-                                      .concat(
-                                        "https://app.jinkoai.com",
-                                        "/dashboard?lang="
-                                      )
-                                      .concat(c.locale),
+                                    href: "https://app.jinkoai.agency/dashboard",
                                     className: "nav-link",
                                     target: "_blank",
                                     rel: "noreferrer",
@@ -83599,12 +83594,7 @@
                                 (0, Sc.jsx)("li", {
                                   className: "nav-item",
                                   children: (0, Sc.jsx)("a", {
-                                    href: ""
-                                      .concat(
-                                        "https://app.jinkoai.com",
-                                        "/chat?lang="
-                                      )
-                                      .concat(c.locale),
+                                    href: "https://app.jinkoai.agency/chat",
                                     className: "nav-link",
                                     target: "_blank",
                                     rel: "noreferrer",
@@ -83614,29 +83604,11 @@
                                     }),
                                   }),
                                 }),
-                                (0, Sc.jsx)("li", {
-                                  className: "nav-item",
-                                  children: (0, Sc.jsx)("a", {
-                                    href: ""
-                                      .concat(
-                                        "https://claim.jinkoai.com",
-                                        "/claim?lang="
-                                      )
-                                      .concat(c.locale),
-                                    className: "nav-link",
-                                    target: "_blank",
-                                    rel: "noreferrer",
-                                    children: (0, Sc.jsx)(Hl.Z, {
-                                      id: "label-claim",
-                                      defaultMessage: "Claim",
-                                    }),
-                                  }),
-                                }),
                                 p.gitbook &&
                                   (0, Sc.jsx)("li", {
                                     className: "nav-item",
                                     children: (0, Sc.jsx)("a", {
-                                      href: p.gitbook,
+                                      href: "https://docs.jinkoai.agency",
                                       className: "nav-link",
                                       target: "_blank",
                                       rel: "noreferrer",
