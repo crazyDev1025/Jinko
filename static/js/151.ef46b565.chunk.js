@@ -3197,7 +3197,7 @@
                                         N.twitter &&
                                           (0, V.jsx)(te, {
                                             className: "sec6-icon",
-                                            href: "https://x.com/JinkoAI_agent",
+                                            href: "https://x.com/JinkoAIagent",
                                             target: "_blank",
                                             rel: "noreferrer noopener",
                                             children: (0, V.jsx)("img", {
@@ -3219,7 +3219,7 @@
                                         N.discord &&
                                           (0, V.jsx)(te, {
                                             className: "sec6-icon",
-                                            href: "https://t.me/JinkoAI_agent",
+                                            href: "https://t.me/JinkoAIagent",
                                             target: "_blank",
                                             rel: "noreferrer noopener",
                                             children: (0, V.jsx)("img", {
