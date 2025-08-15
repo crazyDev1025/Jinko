@@ -83581,7 +83581,7 @@
                                 (0, Sc.jsx)("li", {
                                   className: "nav-item",
                                   children: (0, Sc.jsx)("a", {
-                                    href: "https://app.jinkoai.agency/dashboard",
+                                    href: "https://app.nekoai.agency/dashboard",
                                     className: "nav-link",
                                     target: "_blank",
                                     rel: "noreferrer",
@@ -83594,7 +83594,7 @@
                                 (0, Sc.jsx)("li", {
                                   className: "nav-item",
                                   children: (0, Sc.jsx)("a", {
-                                    href: "https://app.jinkoai.agency/chat",
+                                    href: "https://app.nekoai.agency/chat",
                                     className: "nav-link",
                                     target: "_blank",
                                     rel: "noreferrer",
@@ -83608,7 +83608,7 @@
                                   (0, Sc.jsx)("li", {
                                     className: "nav-item",
                                     children: (0, Sc.jsx)("a", {
-                                      href: "https://docs.jinkoai.agency",
+                                      href: "https://docs.nekoai.agency",
                                       className: "nav-link",
                                       target: "_blank",
                                       rel: "noreferrer",

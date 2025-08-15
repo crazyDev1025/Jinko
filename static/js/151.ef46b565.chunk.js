@@ -2571,7 +2571,7 @@
                                       children: (0, V.jsx)(f.qY, {
                                         fSize: "clamp(13px, 1vw, 14px)",
                                         colorCode: "var(--whiteColor)",
-                                        fWeight: "400",
+                                        fWeight: "400", 
                                         className: "sec7-content",
                                         fFamily: "var(--fontFamily)",
                                         maxWidth: "400px",
