@@ -1649,6 +1649,39 @@
                                                 }),
                                               }),
                                             }),
+                                            (0, V.jsx)($, {
+                                              children: (0, V.jsx)(f.qY, {
+                                                fSize: "clamp(13px, 1vw, 14px)",
+                                                colorCode: "var(--whiteColor)",
+                                                fWeight: "400",
+                                                className: "sec2-content",
+                                                fFamily: "var(--fontFamily)",
+                                                maxWidth: "400px",
+                                                children: (0, V.jsxs)(v.kCb, {
+                                                  children: [
+                                                    (0, V.jsx)("br", {
+                                                    }),
+                                                  ],
+                                                }),
+                                              }),
+                                            }),
+                                            (0, V.jsx)($, {
+                                              children: (0, V.jsx)(f.qY, {
+                                                fSize: "clamp(13px, 1vw, 14px)",
+                                                colorCode: "var(--whiteColor)",
+                                                fWeight: "400",
+                                                className: "sec2-content",
+                                                fFamily: "var(--fontFamily)",
+                                                maxWidth: "400px",
+                                                children: (0, V.jsxs)(v.kCb, {
+                                                  children: [
+                                                    (0, V.jsx)("div", {
+                                                      children: "CA: 0xcomingsoon",
+                                                    }),
+                                                  ],
+                                                }),
+                                              }),
+                                            }),
                                           ],
                                         }),
                                         (0, V.jsx)($, {
@@ -3218,6 +3251,28 @@
                                             rel: "noreferrer noopener",
                                             children: (0, V.jsx)("img", {
                                               src: "/images/social-icon/telegram.png",
+                                              alt: "discord",
+                                            }),
+                                          }),
+                                        N.telegram &&
+                                          (0, V.jsx)(te, {
+                                            className: "sec6-icon",
+                                            href: N.telegram,
+                                            target: "_blank",
+                                            rel: "noreferrer noopener",
+                                            children: (0, V.jsx)("img", {
+                                              src: "/images/social-icon/dextools.png",
+                                              alt: "telegram",
+                                            }),
+                                          }),
+                                        N.discord &&
+                                          (0, V.jsx)(te, {
+                                            className: "sec6-icon",
+                                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                            target: "_blank",
+                                            rel: "noreferrer noopener",
+                                            children: (0, V.jsx)("img", {
+                                              src: "/images/social-icon/dextools.png",
                                               alt: "discord",
                                             }),
                                           }),
