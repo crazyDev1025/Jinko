@@ -1048,7 +1048,7 @@ const Home: React.FC = () => {
                     >
                       <FormattedMessage
                         id='landing-sec1-title'
-                        defaultMessage='JINKO.'
+                        defaultMessage='NEKO.'
                       />
                     </StyledText>
                   </TextWrapper>
@@ -1058,7 +1058,7 @@ const Home: React.FC = () => {
                     >
                       <FormattedMessage
                         id='landing-sec1-title'
-                        defaultMessage='JINKO.'
+                        defaultMessage='NEKO.'
                       />
                     </StyledText>
                   </TextWrapper>
@@ -1494,7 +1494,7 @@ const Home: React.FC = () => {
                         >
                           <FormattedMessage
                             id='landing-sec5-R-subtitle2'
-                            defaultMessage="Jinko's Ai Chat offers users the ability to interact with diverse AI avatars, each with unique roles and personalities. It caters to various sectors, including virtual influencers, personal assistants, coaches, and customer service representatives."
+                            defaultMessage="Neko's Ai Chat offers users the ability to interact with diverse AI avatars, each with unique roles and personalities. It caters to various sectors, including virtual influencers, personal assistants, coaches, and customer service representatives."
                           />
                         </StyledText>
                       </TextWrapper>
@@ -1598,7 +1598,7 @@ const Home: React.FC = () => {
                             values={{
                               styledSpan: chunks => <StyledSpan>{chunks}</StyledSpan>
                             }}
-                          /> JINKO
+                          /> NEKO
                         </StyledText>
                       </TextWrapper>
                       <TextWrapper>
@@ -1626,7 +1626,7 @@ const Home: React.FC = () => {
                             values={{
                               styledSpan: chunks => <StyledSpan>{chunks}</StyledSpan>
                             }}
-                          /> 1,000,000,000 JINKO
+                          /> 1,000,000,000 NEKO
                         </StyledText>
                       </TextWrapper>
                       <TextWrapper>
@@ -1727,7 +1727,7 @@ const Home: React.FC = () => {
                   >
                     <FormattedMessage
                       id='landing-sec7-R-subtitle1'
-                      defaultMessage='The JINKO Token has the following technical details:'
+                      defaultMessage='The NEKO Token has the following technical details:'
                     />
                   </StyledText>
                 </TextWrapper> */}
@@ -2008,7 +2008,7 @@ const Home: React.FC = () => {
                     >
                       <FormattedMessage
                         id='landing-sec8-R-subtitle1'
-                        defaultMessage='Join us on Jinko social media to stay connected and witness the exciting evolution of AI together.'
+                        defaultMessage='Join us on Neko social media to stay connected and witness the exciting evolution of AI together.'
                       />
                     </StyledText>
                   </TextWrapper>

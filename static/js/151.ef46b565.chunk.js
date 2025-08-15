@@ -1283,7 +1283,7 @@
                                           fFamily: "var(--fontFamily2)",
                                           children: (0, V.jsx)(u.Z, {
                                             id: "landing-sec1-title",
-                                            defaultMessage: "JINKO.",
+                                            defaultMessage: "NEKO.",
                                           }),
                                         }),
                                       }),
@@ -1301,7 +1301,7 @@
                                           fFamily: "var(--fontFamily2)",
                                           children: (0, V.jsx)(u.Z, {
                                             id: "landing-sec1-title",
-                                            defaultMessage: "JINKO.",
+                                            defaultMessage: "NEKO.",
                                           }),
                                         }),
                                       }),
@@ -2161,7 +2161,7 @@
                                                 children: (0, V.jsx)(u.Z, {
                                                   id: "landing-sec5-R-subtitle2",
                                                   defaultMessage:
-                                                    "Jinko's Ai Chat offers users the ability to interact with diverse AI avatars, each with unique roles and personalities. It caters to various sectors, including virtual influencers, personal assistants, coaches, and customer service representatives.",
+                                                    "Neko's Ai Chat offers users the ability to interact with diverse AI avatars, each with unique roles and personalities. It caters to various sectors, including virtual influencers, personal assistants, coaches, and customer service representatives.",
                                                 }),
                                               }),
                                             }),
@@ -2358,7 +2358,7 @@
                                                       },
                                                     },
                                                   }),
-                                                  " JINKO",
+                                                  " NEKO",
                                                 ],
                                               }),
                                             }),
@@ -2384,7 +2384,7 @@
                                                       },
                                                     },
                                                   }),
-                                                  " 18",
+                                                  " 9",
                                                 ],
                                               }),
                                             }),
@@ -2410,7 +2410,7 @@
                                                       },
                                                     },
                                                   }),
-                                                  " 1,000,000,000 JINKO",
+                                                  " 1,000,000,000 NEKO",
                                                 ],
                                               }),
                                             }),
@@ -2550,16 +2550,10 @@
                                 ],
                               }),
                               (0, V.jsx)(ce, {
-                                children: (0, V.jsx)("iframe", {
+                                children: (0, V.jsxs)("img", {
                                   width: "560",
-                                  height: "315",
-                                  ref: Y,
-                                  src: we,
-                                  title: "YouTube video player",
-                                  allow:
-                                    "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
-                                  allowFullScreen: !0,
-                                  style: { border: 0 },
+                                  height: "737",
+                                  src: "/images/landing/youtube.png",
                                 }),
                               }),
                               (0, V.jsx)(v.kCb, {
@@ -3147,7 +3141,7 @@
                                           children: (0, V.jsx)(u.Z, {
                                             id: "landing-sec8-R-subtitle1",
                                             defaultMessage:
-                                              "Join us on Jinko social media to stay connected and witness the exciting evolution of AI together.",
+                                              "Join us on Neko social media to stay connected and witness the exciting evolution of AI together.",
                                           }),
                                         }),
                                       }),
@@ -3197,7 +3191,7 @@
                                         N.twitter &&
                                           (0, V.jsx)(te, {
                                             className: "sec6-icon",
-                                            href: "https://x.com/JinkoAIagent",
+                                            href: "https://x.com/NekoAI_agent",
                                             target: "_blank",
                                             rel: "noreferrer noopener",
                                             children: (0, V.jsx)("img", {
@@ -3219,7 +3213,7 @@
                                         N.discord &&
                                           (0, V.jsx)(te, {
                                             className: "sec6-icon",
-                                            href: "https://t.me/JinkoAIagent",
+                                            href: "https://t.me/NekoAI_agent",
                                             target: "_blank",
                                             rel: "noreferrer noopener",
                                             children: (0, V.jsx)("img", {

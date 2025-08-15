@@ -249,7 +249,7 @@
           a = n(30168),
           s = (n(72791), n(44313)),
           u = n(6907),
-          c = { title: "Jinko" },
+          c = { title: "Neko" },
           l = n(75707),
           f = n(80184),
           h = ["children"],
@@ -54368,7 +54368,7 @@
                   FAST_REFRESH: !0,
                   REACT_APP_CHAIN_ID: "56",
                   REACT_APP_GTAG: "GTM-TLF66T4",
-                  REACT_APP_PROJECT_NAME: "Jinko",
+                  REACT_APP_PROJECT_NAME: "Neko",
                   REACT_APP_INFURA_KEY: "37858659f9744626be6bd715f0e65964",
                   REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
                   REACT_APP_NODE_2: "https://bsc-dataseed1.defibit.io",
@@ -54404,7 +54404,7 @@
                 FAST_REFRESH: !0,
                 REACT_APP_CHAIN_ID: "56",
                 REACT_APP_GTAG: "GTM-TLF66T4",
-                REACT_APP_PROJECT_NAME: "Jinko",
+                REACT_APP_PROJECT_NAME: "Neko",
                 REACT_APP_INFURA_KEY: "37858659f9744626be6bd715f0e65964",
                 REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
                 REACT_APP_NODE_2: "https://bsc-dataseed1.defibit.io",
@@ -54440,7 +54440,7 @@
                   FAST_REFRESH: !0,
                   REACT_APP_CHAIN_ID: "56",
                   REACT_APP_GTAG: "GTM-TLF66T4",
-                  REACT_APP_PROJECT_NAME: "Jinko",
+                  REACT_APP_PROJECT_NAME: "Neko",
                   REACT_APP_INFURA_KEY: "37858659f9744626be6bd715f0e65964",
                   REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
                   REACT_APP_NODE_2: "https://bsc-dataseed1.defibit.io",
@@ -54483,7 +54483,7 @@
                       FAST_REFRESH: !0,
                       REACT_APP_CHAIN_ID: "56",
                       REACT_APP_GTAG: "GTM-TLF66T4",
-                      REACT_APP_PROJECT_NAME: "Jinko",
+                      REACT_APP_PROJECT_NAME: "Neko",
                       REACT_APP_INFURA_KEY: "37858659f9744626be6bd715f0e65964",
                       REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
                       REACT_APP_NODE_2: "https://bsc-dataseed1.defibit.io",
@@ -54520,7 +54520,7 @@
                       FAST_REFRESH: !0,
                       REACT_APP_CHAIN_ID: "56",
                       REACT_APP_GTAG: "GTM-TLF66T4",
-                      REACT_APP_PROJECT_NAME: "Jinko",
+                      REACT_APP_PROJECT_NAME: "Neko",
                       REACT_APP_INFURA_KEY: "37858659f9744626be6bd715f0e65964",
                       REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
                       REACT_APP_NODE_2: "https://bsc-dataseed1.defibit.io",
@@ -54557,7 +54557,7 @@
                       FAST_REFRESH: !0,
                       REACT_APP_CHAIN_ID: "56",
                       REACT_APP_GTAG: "GTM-TLF66T4",
-                      REACT_APP_PROJECT_NAME: "Jinko",
+                      REACT_APP_PROJECT_NAME: "Neko",
                       REACT_APP_INFURA_KEY: "37858659f9744626be6bd715f0e65964",
                       REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
                       REACT_APP_NODE_2: "https://bsc-dataseed1.defibit.io",
@@ -54594,7 +54594,7 @@
                           FAST_REFRESH: !0,
                           REACT_APP_CHAIN_ID: "56",
                           REACT_APP_GTAG: "GTM-TLF66T4",
-                          REACT_APP_PROJECT_NAME: "Jinko",
+                          REACT_APP_PROJECT_NAME: "Neko",
                           REACT_APP_INFURA_KEY:
                             "37858659f9744626be6bd715f0e65964",
                           REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
@@ -54634,7 +54634,7 @@
                         FAST_REFRESH: !0,
                         REACT_APP_CHAIN_ID: "56",
                         REACT_APP_GTAG: "GTM-TLF66T4",
-                        REACT_APP_PROJECT_NAME: "Jinko",
+                        REACT_APP_PROJECT_NAME: "Neko",
                         REACT_APP_INFURA_KEY:
                           "37858659f9744626be6bd715f0e65964",
                         REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
@@ -54674,7 +54674,7 @@
                           FAST_REFRESH: !0,
                           REACT_APP_CHAIN_ID: "56",
                           REACT_APP_GTAG: "GTM-TLF66T4",
-                          REACT_APP_PROJECT_NAME: "Jinko",
+                          REACT_APP_PROJECT_NAME: "Neko",
                           REACT_APP_INFURA_KEY:
                             "37858659f9744626be6bd715f0e65964",
                           REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
@@ -54715,7 +54715,7 @@
                           FAST_REFRESH: !0,
                           REACT_APP_CHAIN_ID: "56",
                           REACT_APP_GTAG: "GTM-TLF66T4",
-                          REACT_APP_PROJECT_NAME: "Jinko",
+                          REACT_APP_PROJECT_NAME: "Neko",
                           REACT_APP_INFURA_KEY:
                             "37858659f9744626be6bd715f0e65964",
                           REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
@@ -54756,7 +54756,7 @@
                           FAST_REFRESH: !0,
                           REACT_APP_CHAIN_ID: "56",
                           REACT_APP_GTAG: "GTM-TLF66T4",
-                          REACT_APP_PROJECT_NAME: "Jinko",
+                          REACT_APP_PROJECT_NAME: "Neko",
                           REACT_APP_INFURA_KEY:
                             "37858659f9744626be6bd715f0e65964",
                           REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
@@ -54796,7 +54796,7 @@
                         FAST_REFRESH: !0,
                         REACT_APP_CHAIN_ID: "56",
                         REACT_APP_GTAG: "GTM-TLF66T4",
-                        REACT_APP_PROJECT_NAME: "Jinko",
+                        REACT_APP_PROJECT_NAME: "Neko",
                         REACT_APP_INFURA_KEY:
                           "37858659f9744626be6bd715f0e65964",
                         REACT_APP_NODE_1: "https://bsc-dataseed1.ninicoin.io",
@@ -82195,7 +82195,7 @@
               chainId: {
                 chainId:
                   parseInt(
-                    window.localStorage.getItem("chainIdStatus".concat("Jinko"))
+                    window.localStorage.getItem("chainIdStatus".concat("Neko"))
                   ) || si.Kj.BSC,
               }.chainId,
             },
@@ -82300,7 +82300,7 @@
                       var i = xl(e, t, n);
                       r(Sl(i)),
                         localStorage.setItem(
-                          "chainIdStatus".concat("Jinko"),
+                          "chainIdStatus".concat("Neko"),
                           JSON.stringify(i.chainId)
                         );
                     } catch (o) {
