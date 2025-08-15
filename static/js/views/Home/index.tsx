@@ -1575,7 +1575,7 @@ const Home: React.FC = () => {
                       >
                         <FormattedMessage
                           id='landing-sec6-L-subtitle2'
-                          defaultMessage='(0xcomingsoon)'
+                          defaultMessage='(0x8708194f12a971d48536eadf1829270e9f79b49d)'
                         />
                       </StyledText>
                     </TextWrapper>

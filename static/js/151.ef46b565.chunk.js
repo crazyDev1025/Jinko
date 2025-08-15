@@ -1676,7 +1676,7 @@
                                                 children: (0, V.jsxs)(v.kCb, {
                                                   children: [
                                                     (0, V.jsx)("div", {
-                                                      children: "CA: 0xcomingsoon",
+                                                      children: "CA: 0x8708194f12a971d48536eadf1829270e9f79b49d",
                                                     }),
                                                   ],
                                                 }),
@@ -2337,7 +2337,7 @@
                                             children: (0, V.jsx)(u.Z, {
                                               id: "landing-sec6-L-subtitle2",
                                               defaultMessage:
-                                                "(0xcomingsoon)",
+                                                "(0x8708194f12a971d48536eadf1829270e9f79b49d)",
                                             }),
                                           }),
                                         }),
@@ -2497,7 +2497,7 @@
                                             paddingBottom: "13px",
                                           },
                                           children: (0, V.jsx)("a", {
-                                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8708194f12a971d48536eadf1829270e9f79b49d",
                                             target: "_blank",
                                             rel: "noreferrer",
                                             children: (0, V.jsx)(f.Mm, {
@@ -3268,7 +3268,7 @@
                                         N.discord &&
                                           (0, V.jsx)(te, {
                                             className: "sec6-icon",
-                                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8708194f12a971d48536eadf1829270e9f79b49d",
                                             target: "_blank",
                                             rel: "noreferrer noopener",
                                             children: (0, V.jsx)("img", {
